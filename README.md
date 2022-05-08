@@ -1,2 +1,2 @@
 # Landing-page
-Building a landing page web page with just HTML and CSS
+Building a landing page with only HTML and CSS
